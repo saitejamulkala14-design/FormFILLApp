@@ -6,7 +6,7 @@
     <br>
     
     <label for="aadhar"><b>Email</b></label>
-    <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
+    <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhrrrrrrar" required>
     <br>
 
     <label for="email"><b>Email</b></label>

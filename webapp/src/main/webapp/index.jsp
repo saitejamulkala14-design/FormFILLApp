@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>HELLO MADAM!! WHAT ABOUT TOMMORPW's MEET?? Could you please confirm early?</h1>
+    <h1>HELLO MADAM!! WHAT ABOUT TOMORROW's MEET?? Could you please confirm early?</h1>
     <p>Epudu cheptavu inka? ivala cheptava? nit varaku aina? ledha direct repu morning yena?</p>
     <hr>
     <br>

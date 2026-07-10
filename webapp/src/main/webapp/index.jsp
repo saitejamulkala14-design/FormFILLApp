@@ -1,37 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome!! Saidemy DevOps Student Registration Form!!</h1>
-    <p>Please fill in this form for registration$$$$$$$</p>
+    <h1>HELLO MADAM!! WHAT ABOUT TOMMORPW's MEET?? Could you please confirm early?</h1>
+    <p>Epudu cheptavu inka? ivala cheptava? nit varaku aina? ledha direct repu morning yena?</p>
     <hr>
     <br>
-    
-    <label for="aadhar"><b>Email</b></label>
-    <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhrrrrrrar" required>
-    <br>
-
-    <label for="email2"><b>Email2</b></label>
-    <input type="text" placeholder="Enter Email2" name="email2" id="email2" required>
-    <br>
-
-    <label for="FatherName"><b>FatherName</b></label>
-    <input type="text" placeholder="Enter FatherName" name="FatherName" id="FatherName" required>
-    <br>
-
-    <label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
-    <br>
-
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
-    <br>
-
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-    <br>
-    <button type="submit" class="registerbtn">Register</button>
-  </div>
-
-  <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
-</form>
